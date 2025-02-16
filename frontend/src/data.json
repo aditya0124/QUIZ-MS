@@ -1,0 +1,95 @@
+[
+    {
+      "quizId": "quiz_001",
+      "quizTitle": "General Knowledge Quiz",
+      "instructorId": "instr_12345",
+      "questions": [
+        {
+          "questionText": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Mars", "Jupiter", "Venus"],
+          "correctAnswer": "Jupiter"
+        },
+        {
+          "questionText": "Which is the longest river in the world?",
+          "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+          "correctAnswer": "Nile"
+        },
+        {
+          "questionText": "Who wrote 'Hamlet'?",
+          "options": ["J.K. Rowling", "William Shakespeare", "Mark Twain", "Charles Dickens"],
+          "correctAnswer": "William Shakespeare"
+        }
+      ],
+      "createdAt": "2025-02-13T10:00:00Z"
+    },
+    {
+      "quizId": "quiz_002",
+      "quizTitle": "Science & Technology Quiz",
+      "instructorId": "instr_67890",
+      "questions": [
+        {
+          "questionText": "What does CPU stand for?",
+          "options": ["Central Processing Unit", "Computer Power Unit", "Control Processing Unit", "Central Program Unit"],
+          "correctAnswer": "Central Processing Unit"
+        },
+        {
+          "questionText": "What is the chemical symbol for water?",
+          "options": ["H2O", "O2", "CO2", "H2O2"],
+          "correctAnswer": "H2O"
+        },
+        {
+          "questionText": "Which scientist proposed the theory of relativity?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+          "correctAnswer": "Albert Einstein"
+        }
+      ],
+      "createdAt": "2025-02-13T11:30:00Z"
+    },
+    {
+      "quizId": "quiz_003",
+      "quizTitle": "Mathematics Quiz",
+      "instructorId": "instr_11223",
+      "questions": [
+        {
+          "questionText": "What is the value of π (pi) up to two decimal places?",
+          "options": ["3.12", "3.14", "3.16", "3.18"],
+          "correctAnswer": "3.14"
+        },
+        {
+          "questionText": "Solve: 12 × 8",
+          "options": ["96", "86", "106", "76"],
+          "correctAnswer": "96"
+        },
+        {
+          "questionText": "What is the square root of 81?",
+          "options": ["7", "8", "9", "10"],
+          "correctAnswer": "9"
+        }
+      ],
+      "createdAt": "2025-02-13T12:15:00Z"
+    },
+    {
+      "quizId": "quiz_004",
+      "quizTitle": "History Quiz",
+      "instructorId": "instr_44556",
+      "questions": [
+        {
+          "questionText": "Who was the first President of the United States?",
+          "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+          "correctAnswer": "George Washington"
+        },
+        {
+          "questionText": "In which year did World War II end?",
+          "options": ["1942", "1945", "1950", "1939"],
+          "correctAnswer": "1945"
+        },
+        {
+          "questionText": "Which empire built the Great Wall of China?",
+          "options": ["Ming Dynasty", "Qin Dynasty", "Tang Dynasty", "Song Dynasty"],
+          "correctAnswer": "Qin Dynasty"
+        }
+      ],
+      "createdAt": "2025-02-13T13:00:00Z"
+    }
+]
+  
