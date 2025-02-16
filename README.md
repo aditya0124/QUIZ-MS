@@ -22,9 +22,9 @@ Ensure you have the following installed on your system:
 3. Create a `.env` file and add the necessary environment variables (e.g., database URI, JWT secret, etc.).
 4. Start the server:
    ```sh
-   npm start
+   npm run dev (in both frontend & server)
    ```
-   The server will start on `http://localhost:5000/` (default).
+   The server will start on `http://localhost:8080/` (default).
 
 ---
 
