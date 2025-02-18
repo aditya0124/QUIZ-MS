@@ -21,7 +21,8 @@ app.use(cookieParser());
 
 
 app.use(cors({
-    origin:"http://localhost:5173",
+    // origin:"http://localhost:5173",
+    origin:"https://comforting-lollipop-f0564c.netlify.app",
     credentials:true
 }));
  
