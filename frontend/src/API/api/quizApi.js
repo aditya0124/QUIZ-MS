@@ -1,7 +1,8 @@
 // src/features/api/quizApi.js
 
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
-const USER_API = "http://localhost:8080/api/v1/quiz/"
+// const USER_API = "http://localhost:8080/api/v1/quiz/"
+const USER_API = "https://quiz-ms.onrender.com/api/v1/quiz"
 
 export const quizApi = createApi({
   reducerPath: 'quizApi',
